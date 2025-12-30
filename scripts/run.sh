@@ -4,3 +4,4 @@ set -eu
 echo "p3-stack"
 # avoid re-reading the config on every call
 # avoid re-reading the config on every call
+# clarify the control flow
